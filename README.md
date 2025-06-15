@@ -54,7 +54,7 @@ This project uses the `X-USERNAME` header to validate product ownership, ensurin
 
 
 ## 📸 Postman Test Results
-![API Response](Postman.PNG)
+![API Response](tax-calculator/image/Postman.PNG)
 >>>>>>> 012f95862d4ab96f194e99142bfdf80d3b9aeb9d
 
 ---
