@@ -1,0 +1,6 @@
+com\aslan\taxcalculator\controller\ProductController.class
+com\aslan\taxcalculator\model\Product.class
+com\aslan\taxcalculator\TaxCalculatorApplication.class
+com\aslan\taxcalculator\model\Product$ProductBuilder.class
+com\aslan\taxcalculator\repository\ProductRepository.class
+com\aslan\taxcalculator\service\ProductService.class
